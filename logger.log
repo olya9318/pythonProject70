@@ -1,0 +1,98 @@
+INFO:werkzeug: * Running on http://127.0.0.1:5000 (Press CTRL+C to quit)
+INFO:root:Открытие главной страницы
+INFO:werkzeug:127.0.0.1 - - [08/May/2022 10:46:10] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/May/2022 10:46:10] "GET /static/style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/May/2022 10:46:10] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:root:Открытие главной страницы
+INFO:werkzeug:127.0.0.1 - - [08/May/2022 10:46:16] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/May/2022 10:46:16] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:Выолняется поиск
+INFO:werkzeug:127.0.0.1 - - [08/May/2022 10:46:20] "GET /search?s= HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/May/2022 10:46:20] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:Выолняется поиск
+INFO:werkzeug:127.0.0.1 - - [08/May/2022 10:46:41] "GET /search?s=утром HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/May/2022 10:46:41] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:Открытие главной страницы
+INFO:werkzeug:127.0.0.1 - - [08/May/2022 10:46:49] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/May/2022 10:46:49] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:Выолняется поиск
+INFO:werkzeug:127.0.0.1 - - [08/May/2022 10:46:54] "GET /search?s=ага HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/May/2022 10:46:54] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:Открытие главной страницы
+INFO:werkzeug:127.0.0.1 - - [08/May/2022 10:47:02] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/May/2022 10:47:02] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Running on http://127.0.0.1:5000 (Press CTRL+C to quit)
+INFO:root:Выолняется поиск
+INFO:werkzeug:127.0.0.1 - - [08/May/2022 11:06:01] "GET /search?s=вышел HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/May/2022 11:06:01] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:Выолняется поиск
+INFO:werkzeug:127.0.0.1 - - [08/May/2022 11:10:23] "GET /search?s=утром HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/May/2022 11:10:23] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:Открытие главной страницы
+INFO:werkzeug:127.0.0.1 - - [08/May/2022 11:10:35] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/May/2022 11:10:35] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Running on http://127.0.0.1:5000 (Press CTRL+C to quit)
+INFO:root:Открытие главной страницы
+INFO:werkzeug:127.0.0.1 - - [08/May/2022 11:40:39] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/May/2022 11:40:39] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:Выполняется поиск
+INFO:werkzeug:127.0.0.1 - - [08/May/2022 11:40:45] "GET /search?s=g HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/May/2022 11:40:45] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [08/May/2022 11:40:48] "GET /post HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/May/2022 11:40:48] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Running on http://127.0.0.1:5000 (Press CTRL+C to quit)
+INFO:root:Открытие главной страницы
+INFO:werkzeug:127.0.0.1 - - [08/May/2022 12:06:06] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/May/2022 12:06:06] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [08/May/2022 12:06:08] "GET /post HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/May/2022 12:06:08] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:Открытие главной страницы
+INFO:werkzeug:127.0.0.1 - - [08/May/2022 12:07:08] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/May/2022 12:07:08] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Running on http://127.0.0.1:5000 (Press CTRL+C to quit)
+INFO:root:Открытие главной страницы
+INFO:werkzeug:127.0.0.1 - - [08/May/2022 12:21:41] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/May/2022 12:21:41] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [08/May/2022 12:21:51] "GET /post HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/May/2022 12:21:51] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [08/May/2022 12:22:26] "POST /post HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/May/2022 12:22:26] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [08/May/2022 12:22:26] "GET /uploads/images/IMG_20210508_112017.jpg HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/May/2022 12:22:31] "GET /post HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/May/2022 12:22:32] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:Открытие главной страницы
+INFO:werkzeug:127.0.0.1 - - [08/May/2022 12:22:35] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/May/2022 12:22:35] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:Выполняется поиск
+INFO:werkzeug:127.0.0.1 - - [08/May/2022 12:22:42] "GET /search?s=новый+пост HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/May/2022 12:22:42] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [08/May/2022 12:22:42] "[36mGET /uploads/images/IMG_20210508_112017.jpg HTTP/1.1[0m" 304 -
+INFO:root:Открытие главной страницы
+INFO:werkzeug:127.0.0.1 - - [08/May/2022 12:22:50] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/May/2022 12:22:50] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Running on http://127.0.0.1:5000 (Press CTRL+C to quit)
+INFO:werkzeug: * Running on http://127.0.0.1:5000 (Press CTRL+C to quit)
+INFO:root:Открытие главной страницы
+INFO:werkzeug:127.0.0.1 - - [08/May/2022 13:15:08] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/May/2022 13:15:08] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [08/May/2022 13:15:15] "GET /post HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/May/2022 13:15:15] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+ERROR:app:Exception on /post [POST]
+Traceback (most recent call last):
+  File "C:\Users\Olya\PycharmProjects\pythonProject7\venv\lib\site-packages\flask\app.py", line 2077, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\Olya\PycharmProjects\pythonProject7\venv\lib\site-packages\flask\app.py", line 1525, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\Olya\PycharmProjects\pythonProject7\venv\lib\site-packages\flask\app.py", line 1523, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\Olya\PycharmProjects\pythonProject7\venv\lib\site-packages\flask\app.py", line 1509, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**req.view_args)
+  File "C:\Users\Olya\PycharmProjects\pythonProject7\loader\views.py", line 26, in create_new_post_by_user
+    new_post = {"pic": save_picture(picture), "content": content}
+  File "C:\Users\Olya\PycharmProjects\pythonProject7\loader\utils.py", line 10, in save_picture
+    raise WrongImgType("Неверный формат файла")
+exceptions.WrongImgType: Неверный формат файла
+INFO:werkzeug:127.0.0.1 - - [08/May/2022 13:16:11] "[35m[1mPOST /post HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Running on http://127.0.0.1:5000 (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [08/May/2022 13:24:33] "POST /post HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/May/2022 13:24:36] "GET /post HTTP/1.1" 200 -
